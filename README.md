@@ -7,6 +7,7 @@
 
 ## Apoio:
     * W3Schools = https://www.w3schools.com/cpp/default.asp
+    * Devdocs = https://devdocs.io/cpp/
     * Professor - Josenalde - TADS - C++ = https://github.com/josenalde/algorithms-programming
     * Professor - Josenalde - TADS - Fundamento de progrmação = https://github.com/josenalde/computing-fundamentals
     
