@@ -1,5 +1,6 @@
 # C-_Experimentos
-Aplicações básicas  da linguagem C++. Ano: 2020
+    * Função: Armazenar todas os meus projetos e testes com a linguagem C++
+    * OBS.: Minha primeira linguagem foi C++. Por isso esse repositorio terá projetos simples aplicando a linguagem;
 
 ## Documentação:
     * https://docs.microsoft.com/pt-br/cpp/cpp/?view=msvc-170
